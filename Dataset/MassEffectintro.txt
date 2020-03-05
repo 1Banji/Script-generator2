@@ -1,0 +1,2746 @@
+PROLOGUE: FIND THE BEACON
+
+ACT I
+ 
+
+SCENE I
+The Normandy’s first mass relay trip
+ 
+
+[The Normandy is travelling in space. The camera follows SHEPARD as they’re entering the Normandy’s CIC.]
+
+ 
+
+JOKER (voice-over):
+
+The Arcturus Prime relay is in range. Initiating transmission sequence.
+
+ 
+
+[Shepard runs into Corporal Jenkins.]
+
+ 
+
+CORPORAL JENKINS:
+
+Commander.
+
+ 
+
+[Shepard keeps walking. Navigator Pressly nods at him.]
+
+ 
+
+JOKER (voice-over):
+
+We are connected. Calculating transit mass and destination. The relay is hot. Acquiring approach vector. All stations secure for transit.
+
+ 
+
+[Shepard walks toward the cockpit as the Normandy gets closer to the mass relay. Shepard enters the cockpit and stands still next to a turian named Nihlus. Both are behind the pilot, Joker.]
+
+ 
+
+JOKER (voice-over):
+
+The board is green. Approach run has begun. Hitting the relay in 3...2...1…
+
+ 
+
+[We see the Normandy making its first trip through a mass relay.]
+
+ 
+
+JOKER:
+
+Thrusters, check. Navigation, check. Internal emissions sink engaged. All systems online. Drift...just under 1500 K.
+
+ 
+
+NIHLUS:
+
+1500 is good. Your captain will be pleased.
+
+ 
+
+[Nihlus leaves the cockpit. Joker looks at Kaidan, who is sitting next to him, on his right.]
+
+ 
+
+JOKER:
+
+I hate that guy.
+
+ 
+
+KAIDAN:
+
+Nihlus gave you a compliment...so you hate him?
+
+ 
+
+JOKER:
+
+You remember to zip your jumpsuit on the way out of the bathroom? That’s good. I just jumped us halfway across the galaxy and hit a target the size of a pinhead. So that’s incredible. Besides, Spectres are trouble. I don’t like having him on board. Call me paranoid.
+
+ 
+
+KAIDAN:
+
+You’re paranoid. The Council helped fund this project. They have a right to send someone to keep an eye on their investment.
+
+ 
+
+JOKER:
+
+Yeah, that is the official story. But only an idiot believes the official story.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I agree
+
+-You’re overreacting
+
+-Cut the chatter!
+
+ 
+
+SHEPARD:
+
+They don’t send Spectres on shakedown runs.
+
+ 
+
+JOKER:
+
+So there’s more going on here than the captain’s letting on.
+
+ 
+
+CAPTAIN ANDERSON (on comm):
+
+Joker. Status report.
+
+ 
+
+JOKER:
+
+Just cleared the mass relay, Captain. Stealth systems engaged. Everything looks solid.
+
+ 
+
+CAPTAIN ANDERSON (on comm):
+
+Good. Find a comm buoy and link us into the network. I want mission reports relayed back to Alliance brass before we reach Eden Prime.
+
+ 
+
+JOKER:
+
+Aye, aye, Captain. Better brace yourself, sir. I think Nihlus is headed your way.
+
+ 
+
+CAPTAIN ANDERSON (on comm):
+
+He’s already here, Lieutenant. Tell Commander Shepard to meet me in the comm room for a debriefing.
+
+ 
+
+ 
+
+JOKER:
+
+You get that, Commander?
+
+ 
+
+SHEPARD - dialogues options:
+
+-Is he upset?
+
+-I heard
+
+-You made him mad.
+
+ 
+
+SHEPARD:
+
+He sounds angry. Something must have gone wrong with the mission.
+
+ 
+
+JOKER:
+
+Pff. Captain always sounds like that when he’s talking to me.
+
+ 
+
+KAIDAN:
+
+I can’t possibly imagine why.
+
+ 
+
+-> Additional scenes
+
+ 
+
+ 
+
+SCENE II
+Nihlus’s presence on the Normandy
+ 
+
+[Shepard enters the comm room. Nihlus stops watching a picture of Eden Prime (from the projector in front of him) and turns around to greet Shepard.]
+
+ 
+
+NIHLUS:
+
+Commander Shepard. I was hoping you’d get here first. It will give us a chance to talk.
+
+
+SHEPARD - dialogues options:
+
+-Where’s Captain Anderson?
+
+-Talk?
+
+ 
+
+SHEPARD:
+
+The captain said he’d meet me here.
+
+ 
+
+NIHLUS:
+
+He’s on his way. I’m interested in this world we’re going to — Eden Prime. I’ve heard it’s quite beautiful.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Beyond beautiful.
+
+-I wouldn’t know.
+
+-So what?
+
+ 
+
+SHEPARD:
+
+They say it’s a paradise.
+
+ 
+
+NIHLUS:
+
+Yes... a paradise. Serene. Tranquil. Safe. Eden Prime has become something of a symbol for your people, hasn't it? Proof that humanity can not only establish colonies across the galaxy, but also protect them. But how safe is it, really?
+
+ 
+
+SHEPARD - dialogues options:
+
+-Why are you asking?
+
+-What’s your point?
+
+-Is that a threat?
+
+ 
+
+SHEPARD:
+
+Do you know something?
+
+ 
+
+NIHLUS:
+
+Your people are still newcomers, Shepard. The galaxy can be a very dangerous place. Is the Alliance truly ready for this?
+
+ 
+
+[Anderson enters the comm room.]
+
+ 
+
+ANDERSON;
+
+I think it’s about time we told the commander what’s really going on.
+
+ 
+
+NIHLUS:
+
+This mission is far more than a simple shakedown run.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I knew it.
+
+-What’s going on?
+
+-That’s obvious.
+
+ 
+
+SHEPARD:
+
+I figured there was something you weren’t telling us.
+
+ 
+
+ANDERSON:
+
+We’re making a covert pick-up on Eden Prime. That’s why we needed the stealth systems operational.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Why the secrecy?
+
+-You should have told me.
+
+-What are we picking up?
+
+SHEPARD:
+
+There must be a reason you didn’t tell me about this, sir.
+
+ 
+
+ 
+
+ANDERSON:
+
+This comes down from the top, Commander. Information strictly on a need-to-know basis. A research team on Eden Prime unearthed some kind of beacon during an excavation. It was Prothean.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Prothean?
+
+-What are the details?
+
+ 
+
+SHEPARD:
+
+I thought the Protheans vanished 50 000 years ago.
+
+ 
+
+NIHLUS:
+
+Their legacy still remains. The mass relays, the Citadel, our ship drives -- it's all based on Prothean technology.
+
+ 
+
+ANDERSON:
+
+This is big, Shepard. The last time humanity made a discovery like this, it jumped our technology forward two hundred years. But Eden  Prime doesn't have the facilities to handle something like this. We need to bring the beacon back to the Citadel for proper study.
+
+ 
+
+NIHLUS:
+
+Obviously, this goes beyond mere human interests, Commander. This discovery could affect every species in Council space.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Why did we tell the Council?
+
+-I’m glad you’re here to help.
+
+-You sound worried.
+
+-We don’t need your help here.
+
+ 
+
+SHEPARD:
+
+Why didn’t we keep the beacon for ourselves?
+
+ 
+
+NIHLUS:
+
+You humans don't have the best reputation. Some species see you as selfish. Too unpredictable. Too independent. Even dangerous.
+
+ 
+
+ANDERSON:
+
+Sharing that beacon will improve relations with the Council. Plus, we need their scientific expertise. They know more about the Protheans than we do.
+
+ 
+
+NIHLUS:
+
+The beacon’s not the only reason I’m here, Shepard.
+
+ 
+
+ANDERSON:
+
+Nihlus wants to see you in action, Commander. He’s here to evaluate you.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I should’ve known.
+
+-Why?
+
+-Like hell he is!
+
+ 
+
+SHEPARD:
+
+What’s going on, Captain?
+
+ 
+
+ANDERSON:
+
+The Alliance has been pushing for this for a long time. Humanity wants a larger role in shaping interstellar policy. We want more say with the Citadel Council. The Spectres represent the Council’s power and authority. If they accept a human into their ranks, it shows how far the Alliance has come.
+
+ 
+
+NIHLUS:
+
+Not many could have survived what you went through on Akuze. You showed a remarkable will to live — a particularly useful talent. That’s why I put your name forward as a candidate for the Spectres.
+
+ 
+
+SHEPARD - dialogues options:
+
+-You put my name forward?
+
+-You support this, Captain?
+
+-What’s the next step?
+
+-What if I refuse?
+
+ 
+
+SHEPARD:
+
+Why would a turian want a human in the Spectres?
+
+ 
+
+NIHLUS:
+
+Not all turians resent humanity. Some of us see the potential of your species. We see what you have to offer to the rest of the galaxy... and to the Spectres.
+
+We are an elite group. It's rare to find an individual with the skills we seek. I don't care that you're human, Shepard. I only care that you can do the job.
+
+ 
+
+SHEPARD - dialogues options:
+
+-You support this, Captain?
+
+-What’s the next step?
+
+-What if I refuse?
+
+ 
+
+SHEPARD:
+
+I assume this is good for the Alliance.
+
+ANDERSON:
+
+Earth needs this, Shepard. We’re counting on you.
+
+ 
+
+NIHLUS:
+
+I need to see your skills for myself, Commander. Eden Prime will be the first of several missions together.
+
+ 
+
+ANDERSON:
+
+You’ll be in charge of the ground team. Secure the beacon and get it onto the ship ASAP. Nihlus will accompany you to observe the mission.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Protheans
+
+-Eden Prime
+
+-Beacons
+
+ 
+
+SHEPARD:
+
+What do you know about the Protheans?
+
+ 
+
+ANDERSON:
+
+Just what they taught us in school. They were a technologically-advanced species that rules the galaxy 50 000 years ago. Then they vanished. Nobody really knows how or why, though I've heard plenty of theories. But everyone agrees galactic civilization wouldn't exist without them.
+
+ 
+
+NIHLUS:
+
+Their Citadel is the very heart of galactic society. And without their mass relays, interstellar travel would be impossible. We all owe the Protheans a great debt.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Protheans
+
+-Eden Prime
+
+-Beacon
+
+ 
+
+SHEPARD:
+
+I'd like to know more about Eden Prime before we touch down.
+
+ 
+
+ANDERSON:
+
+It's a peaceful farming world, but it represents something much bigger. Eden Prime is one of our oldest and most successful colonies. It proved we were ready to face the challenges of settling new worlds, to forge a place for humanity beyond Earth. It symbolizes humanity's growth and evolution as a spacefaring species. And after this, it will be known as the world where humans made a discovery of galactic importance.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Protheans
+
+-Eden Prime
+
+-Beacon
+
+ 
+
+SHEPARD:
+
+Why is this beacon so important?
+
+ 
+
+NIHLUS:
+
+All advanced galactic civilization is based on Prothean technology. Even yours.
+
+ 
+
+ANDERSON:
+
+If we hadn't discovered those Prothean ruins buried on Mars, we'd still be stuck on Earth. That was just a small data cache. Who knows what we can learn from this beacon? What if it's a weapons archive? We can't let it fall into the wrong hands.
+
+ 
+
+SHEPARD:
+
+Like who?
+
+ 
+
+ANDERSON:
+
+The Attican Traverse isn't the most stable sector of Citadel space. There are plenty of raiders and criminal groups active in the region. They might figure a Prothean beacon is worth the risk of attacking an Alliance ship. Plus, Eden Prime is right on the border of the Terminus Systems.
+
+ 
+
+SHEPARD:
+
+The Attican Traverse is under Citadel protection. If the Terminus Systems attack, it's an act of war.
+
+ 
+
+NIHLUS:
+
+Technically, yes. But some of the species in the Terminus might be willing to start a war over this.
+
+ 
+
+ANDERSON:
+
+The last thing the Council wants is to get dragged into a major conflict with the Terminus Systems. We have to keep this low-key.
+
+ 
+
+SHEPARD:
+
+Just give the word, Captain.
+
+ 
+
+ANDERSON:
+
+We should be getting close to Eden —
+
+ 
+
+JOKER (voice-over):
+
+Captain! We’ve got a problem.
+
+ 
+
+ANDERSON:
+
+What’s wrong, Joker?
+
+JOKER (voice-over):
+
+Transmission from Eden Prime, sir. You better see this!
+
+ 
+
+ANDERSON:
+
+Bring it up on screen.
+
+ 
+
+[Shepard, Anderson, and Nihlus look at the screen.]
+
+ 
+
+ON SCREEN:
+
+Alliance members are under attack. A soldier (Ashley Williams) get close to the screen.
+
+ 
+
+ASHLEY:
+
+GET DOWN!
+
+ 
+
+[The camera shows her firing at an unseen enemy, followed by images of a ship.]
+
+ 
+
+OFFICIER:
+
+We are under attack! Taking heavy casualties. I repeat: heavy casualties! We can’t…argh!
+
+--eed evac! They came out of nowhere. We need —
+
+ 
+
+The officer gets hurt by an unseen enemy. Other soldiers stare astonished at a ship. The camera shows its image and is followed by a grey screen.
+
+ 
+
+JOKER (voice-over):
+
+Everything cuts out after that. No comm traffic at all. Just goes dead. There’s nothing.
+
+ 
+
+ANDERSON:
+
+Reverse and hold at 38.5.
+
+ 
+
+[Anderson and Nihlus stare at the image of the ship on the screen.]
+
+ 
+
+ANDERSON:
+
+Status report.
+
+ 
+
+JOKER (voice-over):
+
+Seventeen minutes out, Captain. No other Alliance ships in the area.
+
+ 
+
+ANDERSON:
+
+Take us in, Joker. Fast and quiet. This mission just got a lot more complicated.
+
+ 
+
+NIHLUS:
+
+A small strike team can move quickly without drawing attention. It’s our best chance to secure the beacon.
+
+ 
+
+[Shepard stares at the image of the ship on the screen.]
+
+ 
+
+ANDERSON (to Nihlus):
+
+Grab your gear and meet us in the cargo hold.
+
+ 
+
+[Nihlus walks toward the exit.]
+
+ 
+
+ANDERSON (to Shepard):
+
+Tell Alenko and Jenkins to suit up, Commander. You’re going in.
+
+ 
+
+[The image of the ship on the screen is shown one last time.]
+
+ 
+
+SCENE III
+Mission Briefing
+[The Normandy is headed to Eden Prime.]
+
+ 
+
+JOKER (voice-over):
+
+Engaging stealth systems.
+
+ 
+
+[The Normandy reaches Eden Prime.]
+
+ 
+
+JOKER (voice-over):
+
+Somebody was doing some serious digging here, Captain.
+
+ 
+
+[Anderson briefs Shepard, Kaidan, and Jenkins before the mission in the Normandy’s cargo bay. Nihlus is present as well.]
+
+ 
+
+ANDERSON:
+
+Your team’s the muscle in this operation, Commander. Go in heavy and head straight for the dig site.
+
+ 
+
+KAIDAN:
+
+What about survivors, Captain?
+
+ 
+
+ANDERSON:
+
+Helping survivors is a secondary objective. The beacon’s your top priority.
+
+ 
+
+JOKER (voice-over):
+
+Approaching drop point one.
+
+ 
+
+JENKINS:
+
+Nihlus, you’re coming with us?
+
+ 
+
+NIHLUS:
+
+I move faster on my own.
+
+ 
+
+[Nihlus leaves the Normandy.]
+
+ 
+
+ANDERSON:
+
+Nihlus will scout out ahead. He’ll feed you status reports throughout the mission; otherwise, I want radio silence.
+
+ 
+
+SHEPARD - dialogues options:
+
+-He can count on us.
+
+-Can we trust him?
+
+-Understood, Captain.
+
+ 
+
+SHEPARD:
+
+We’ve got his back, Captain.
+
+ 
+
+ANDERSON:
+
+The mission’s yours now, Shepard. Good luck.
+
+ 
+
+[The Normandy lands on Eden Prime.]
+
+ 
+
+JOKER (voice-over):
+
+We are approaching drop point two.
+
+ 
+
+ACT II
+ 
+
+SCENE I
+Situation on the ground
+[Shepard, Jenkins, and Kaidan are the squad on the ground.]
+
+ 
+
+NIHLUS (on comm):
+
+This place got hit hard, Commander. Hostiles everywhere. Keep your guard up.
+
+ 
+
+[As the squad moves, they see strange looking forms moving around them.]
+
+ 
+
+KAIDAN:
+
+What the hell are those?
+
+ 
+
+JENKINS:
+
+Gas bags. Don’t worry — they’re harmless.
+
+ 
+
+[They see burned corpses on the ground.]
+
+ 
+
+JENKINS:
+
+Oh god. What happened here?
+
+ 
+
+KAIDAN:
+
+Smells like smoke and death.
+
+ 
+
+[Shepard makes signs to position the squad. Jenkins goes past a corner and gets hit by multiple geth recon drones. Shepard and Kaidan destroy the drones. They reach Jenkins next. He’s dead. Kaidan closes his eyes.]
+
+ 
+
+KAIDAN:
+
+Ripped right through his shields. Never had a chance.
+
+ 
+
+SHEPARD - dialogues options:
+
+-He deserves a burial.
+
+-We can’t help him now.
+
+-Forget about him.
+
+ 
+
+SHEPARD:
+
+We’ll see that he receives a proper service once the mission is complete. But I need you to stay focused.
+
+ 
+
+KAIDAN:
+
+Aye, aye, sir.
+
+ 
+
+[Kaidan and Shepard keep walking.They fight more geth recon drones.]
+
+ 
+
+NIHLUS (on comm):
+
+I’ve got some burned out buildings here, Shepard. A lot of bodies. I’m going to check it out. I’ll try to catch up with you at the dig site.
+
+ 
+
+[Still in Eden Prime. Cuts to Ashley Williams, thrown on the ground. She gets her weapon and shoots geth recon drones. In front of her, geth spikes rise from the ground to pierce humans, who remain stuck on the ends up in the air. Ashley runs and finds cover. The geth walk toward her. Shepard and Kaidan arrive and shoot the geth troopers. Once they’re alone and safe, Ashley stands in front of them.]
+
+ 
+
+ASHLEY:
+
+Thanks for your help, Commander. I didn’t think I was going to make it. Gunnery Chief Ashley Williams of the 212. You the one in charge here, sir?
+
+ 
+
+SHEPARD - dialogues options:
+
+-Are you okay?
+
+-What happened here?
+
+-We’re on a mission.
+
+ 
+
+SHEPARD:
+
+Are you wounded, Williams?
+
+ 
+
+ASHLEY:
+
+A few scrapes and burns. Nothing serious. The others weren’t so lucky. Oh man… We were patrolling the perimeter when the attack hit. We tried to get off a distress call, but they cut off our communications. I’ve been fighting for my life ever since.
+
+ 
+
+SHEPARD - dialogues options:
+
+-What happened to your unit?
+
+-Fighting these things?
+
+ 
+
+SHEPARD:
+
+Where’s the rest of your squad?
+
+ 
+
+ASHLEY:
+
+We tried to double back to the beacon. But we walked into an ambush. I don’t think any of the others…. I think I’m the only one left.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Don’t blame yourself.
+
+-You abandoned them.
+
+-What killed them?
+
+ 
+
+SHEPARD:
+
+This isn’t your fault, Williams. You couldn’t have done anything to save them.
+
+ 
+
+ASHLEY:
+
+Yes, sir. We held our position as long as we could. Until the geth overwhelmed us.
+
+ 
+
+KAIDAN:
+
+The geth haven’t been seen outside the Veil in nearly 200 years. Why are they here now?
+
+ 
+
+ASHLEY:
+
+They must have come for the beacon. The dig site is close. Just over that rise. It might still be there.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Join us.
+
+-Take us there.
+
+-Stay there.
+
+ 
+
+SHEPARD:
+
+We could use your help, Williams.
+
+ 
+
+ASHLEY:
+
+Aye, aye, sir. It’s time for payback.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Geth
+
+-Beacon
+
+-Before the attack
+
+-Nihlus
+
+ 
+
+SHEPARD:
+
+What else do you know about the geth?
+
+ 
+
+ASHLEY:
+
+Just what I remember from history class back in school. They’re synthetics. Non-organic life-forms with limited AI programming created by the quarians a few centuries ago. They were supposed to be a source of cheap labor, but ended up turning on the quarians and drove them into exile. After that, they just kind of disappeared behind the Perseus Veil. Nobody's really heard much from them since.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Geth
+
+-Beacon
+
+-Before the attack
+
+-Nihlus
+
+ 
+
+SHEPARD:
+
+Tell me everything you know about the beacon.
+
+ 
+
+ASHLEY:
+
+They were doing some digging out here to extend the monorail and expand the colony. A few weeks ago they unearthed some Prothean ruins...and the beacon. Suddenly, every scientific expert in the colony was interested. That’s when they brought us in to secure the site. I don’t know much about the beacon itself. But I heard one of the researchers say this could be the biggest scientific discovery of the century.
+
+ 
+
+ 
+
+SHEPARD:
+
+Describe what happened leading up to the attack.
+
+ 
+
+ASHLEY:
+
+We were sent out a couple nights ago from the main colony to secure the area. Seemed like a routine patrol until the geth hit us. We never knew they were coming.
+
+ 
+
+SHEPARD:
+
+What happened to the researchers at the dig site?
+
+ 
+
+ASHLEY:
+
+I don't know. They set up camp near the beacon. The 232 was with them. Maybe their unit fared better than mine.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Geth
+
+-Beacon
+
+-Before the attack
+
+-Nihlus
+
+ 
+
+SHEPARD:
+
+Have you seen a turian Spectre around here?
+
+ 
+
+ASHLEY:
+
+There aren’t any turians on Eden Prime. None that I’ve ever met. Not sure I’d be able to tell if one was a Spectre, anyway.
+
+ 
+
+ 
+
+KAIDAN:
+
+If you saw this guy, you’d know. Carries enough firepower to wipe out a whole platoon. Luckily, he’s on our side.
+
+ 
+
+ASHLEY:
+
+Sorry. Like I said, no turians.
+
+ 
+
+SHEPARD:
+
+Move out!
+
+ 
+
+[Ashley nods. She joins the squad. The three of them walk toward the dig site.]
+
+ 
+
+ASHLEY:
+
+The beacon’s at the far end of this trench.
+
+ 
+
+KAIDAN:
+
+Eden Prime will never be the same again. That man was still alive when they stuck him on the spike.
+
+ 
+
+ASHLEY:
+
+Killing us isn’t enough. The geth want us to suffer. Impaling victims instead of just shooting them...there must be some reason behind it.
+
+ 
+
+KAIDAN:
+
+Classic psychological warfare. They’re using terror as a weapon.
+
+ 
+
+[They arrive at the dig site, where geth troopers wait for them. The squad kills them.]
+
+ 
+
+ASHLEY:
+
+This is the dig site. The beacon was right here. It must have been moved.
+
+ 
+
+KAIDAN:
+
+By who? Our side? Or the geth?
+
+ 
+
+ASHLEY:
+
+Hard to say. Maybe we’ll know more after we check out the research camp.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Any survivors?
+
+-Let’s go there.
+
+-We’re wasting time.
+
+ 
+
+SHEPARD:
+
+You think anyone got out of here alive?
+
+ 
+
+ 
+
+ 
+
+ASHLEY:
+
+If they were lucky. Maybe hiding up in the camp. It’s just at the top of this ridge. Up the ramps.
+
+ 
+
+NIHLUS (voice-over):
+
+Change of plans, Shepard. There’s a small spaceport up ahead. I want to check it out. I’ll wait for you there.
+
+ 
+
+[The squad walks toward the camp.]
+
+ 
+
+ASHLEY:
+
+Looks like they hit the camp hard.
+
+ 
+
+KAIDAN:
+
+It’s a good place for an ambush. Keep your guard up.
+
+ 
+
+[Spikes (with pierced husks at the center) are being lowered.]
+
+ 
+
+KAIDAN:
+
+Oh, god! They’re still alive!
+
+ 
+
+ASHLEY:
+
+What did the geth do to them?
+
+ 
+
+[The squad kills the husks.]
+
+ 
+
+ASHLEY:
+
+It must take a few hours for the spikes to turn people into husks.
+
+ 
+
+KAIDAN:
+
+Now we know what those spikes are for: turning our own dead against us.
+
+ 
+
+[They find a shack.]
+
+ 
+
+ASHLEY:
+
+That door. It’s closed. Security lock’s engaged.
+
+ 
+
+[Shepard begins decrypting and the doors opens. Inside are a man and a woman.]
+
+ 
+
+DR. WARREN:
+
+Humans! Thank the Maker!
+
+ 
+
+MANUEL:
+
+Hurry! Close the door! Before they come back!
+
+ 
+
+ 
+
+SHEPARD - dialogues options:
+
+-You’re safe.
+
+-Who are you?
+
+-Tell me what happened.
+
+ 
+
+SHEPARD:
+
+Don’t worry. We’ll protect you.
+
+ 
+
+DR. WARREN:
+
+Thank you. I think we’ll be okay now. It looks like everyone’s gone.
+
+ 
+
+ASHLEY:
+
+You’re Dr. Warren, the one in charge of the excavation. Do you know what happened to the beacon?
+
+ 
+
+DR. WARREN:
+
+It was moved to the spaceport this morning. Manuel and I stayed behind to help pack up the camp. When the attack came, the marines held them off long enough for us to hide. They gave their lives to save us.
+
+ 
+
+MANUEL:
+
+No one is saved. The age of humanity is ended. Soon, only ruin and corpses will remain.
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Nihlus
+
+-Beacon
+
+-Assistant
+
+ 
+
+SHEPARD:
+
+What else can you tell me about the attack?
+
+ 
+
+DR. WARREN:
+
+It all happened so fast. One second we were gathering up our equipment. The next we were hiding in the shed while the geth swarmed over the camp.
+
+ 
+
+MANUEL:
+
+Agents of the destroyers. Bringers of darkness. Heralds of our extinction.
+
+ 
+
+DR. WARREN:
+
+We could hear the battle outside. Gunfire. Screams. I thought it would never end. Then, everything went quiet. We just sat there, too afraid to move. Until you came along.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Nihlus
+
+-Beacon
+
+-Assistant
+
+ 
+
+SHEPARD:
+
+Did you notice a turian in the area?
+
+ 
+
+MANUEL:
+
+I saw him. The prophet. Leader of the enemy. He was here, before the attack.
+
+ 
+
+KAIDAN:
+
+That’s impossible. Nihlus was with us on the Normandy before the attack. He couldn’t have been here.
+
+ 
+
+DR. WARREN:
+
+I’m sorry. Manuel’s still a bit...unsettled. We haven’t seen your turian. We’ve been hiding in here since the attack.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Nihlus
+
+-Beacon
+
+-Assistant
+
+ 
+
+SHEPARD:
+
+Can you tell me anything about the beacon?
+
+ 
+
+DR. WARREN:
+
+It’s some type of data module from a galaxy-wide communications network. Remarkably well-preserved. It could be the greatest scientific discovery of our lifetime! Miraculous new technologies. Groundbreaking medical advances. Who knows what secrets are locked inside?
+
+ 
+
+MANUEL:
+
+We have unearthed the heart of evil. Awakened the beast. Unleashed the darkness.
+
+ 
+
+DR. WARREN:
+
+Manuel! Please! This isn’t the time.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Nihlus
+
+-Beacon
+
+-Assistant
+
+ 
+
+SHEPARD:
+
+What’s wrong with your assistant?
+
+ 
+
+DR. WARREN:
+
+Manuel has a brilliant mind, but he’s always been a bit...unstable. Genius and madness are two sides of the same coin.
+
+ 
+
+MANUEL:
+
+Is it madness to see the future? To see the destruction rushing towards us? To understand there is no escape? No hope? No, I am not mad. I’m the only sane one left!
+
+ 
+
+DR. WARREN:
+
+I gave him an extra dose of his meds after the attack.
+
+ 
+
+SHEPARD (to Ashley):
+
+Williams, take us to the spaceport.
+
+ 
+
+MANUEL:
+
+You can’t stop it. Nobody can stop it. Night is falling. The darkness of eternity.
+
+ 
+
+DR. WARREN:
+
+Hush, Manuel. Go lie down. You’ll feel better once the medication kicks in.
+
+ 
+
+[The squad leaves.]
+
+ 
+
+SCENE II
+The spaceport
+ 
+
+[Cuts to Nihlus, near the spaceport. He takes cover only to emerge seconds later, aiming his weapon at a nearby turian. He lowers his weapon when he recognizes Saren.]
+
+ 
+
+NIHLUS:
+
+Saren?
+
+ 
+
+SAREN:
+
+Nihlus.
+
+ 
+
+NIHLUS:
+
+This isn’t your mission, Saren. What are you doing here?
+
+ 
+
+[Saren walks toward Nihlus and puts a hand on his shoulder.]
+
+ 
+
+SAREN:
+
+The Council thought you could use some help on this one.
+
+ 
+
+[Saren gets behind Nihlus, whose back is turned.]
+
+ 
+
+NIHLUS:
+
+I wasn’t expecting to find the geth here. The situation’s bad.
+
+ 
+
+[Saren points a gun at Nihlus.]
+
+ 
+
+SAREN:
+
+Don’t worry. I’ve got it under control.
+
+ 
+
+[The squad catches up and is now near the spaceport. In the sky there is a large ship looming.]
+
+ 
+
+KAIDAN:
+
+What is that? Off in the distance.
+
+ 
+
+ASHLEY:
+
+It’s a ship. Look at the size of it!
+
+ 
+
+[The ship slowly enters the atmosphere. The squad keeps walking and fights geth troopers on the way to the spaceport. There is a shack. Shepard decrypts the lock to open the door.]
+
+ 
+
+COLE:
+
+Everybody stay calm out there. We’re coming out. We’re not armed.
+
+ 
+
+[Two men and a woman come outside.]
+
+ 
+
+FARMER:
+
+Is it safe? Are they gone?
+
+ 
+
+SHEPARD - dialogues options:
+
+-It’s safe.
+
+-They’re gone.
+
+-Stop right there!
+
+ 
+
+SHEPARD:
+
+You’re okay now. Nobody’s going to hurt you.
+
+ 
+
+COLE:
+
+Those things were crawling all around the shed. They would have found us for sure. We owe you our lives.
+
+ 
+
+FARMER:
+
+I — I still can’t believe it. When we saw that ship I thought it was all over!
+
+ 
+
+COLE:
+
+It showed up right before the attack. Knew it was trouble the second I saw it. So we made a break for the sheds.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack details
+
+-Beacon
+
+-Ship
+
+ 
+
+SHEPARD:
+
+Tell me everything you remember about the attack.
+
+ 
+
+COLE:
+
+The three of us were working the crops when that ship showed up. We just saw it and ran. I don’t know what happened to the rest of the crew.
+
+ 
+
+BLAKE:
+
+They were by the garage. Over near the spaceport. Right where that ship came down. No way they survived.
+
+ 
+
+FARMER:
+
+You don’t know that! We survived. If they made it to the garage, they could’ve had a fighting chance!
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack details
+
+-Beacon
+
+-Ship
+
+ 
+
+SHEPARD:
+
+Do you know anything about the Prothean beacon they dug up?
+
+ 
+
+COLE:
+
+We’re just farmers. We heard they found something out there, but it never really mattered to us. Not until now.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack details
+
+-Beacon
+
+-Ship
+
+ 
+
+SHEPARD:
+
+What else can you tell me about the ship you saw?
+
+ 
+
+COLE:
+
+I was too busy running to get a clear look at it. I think it landed over near the spaceport.
+
+ 
+
+FARMER:
+
+Tell them about the noise, Cole. That awful noise.
+
+ 
+
+COLE:
+
+It was emitting some kind of signal as it descended. Sounded like the shriek of the damned. Only it was coming from inside your own head.
+
+ 
+
+SHEPARD:
+
+It was probably trying to block communications.
+
+ 
+
+COLE:
+
+Whatever it was, felt like it was tearing right through my skull. Almost made it impossible to think.
+
+ 
+
+SHEPARD:
+
+I have to go.
+
+ 
+
+BLAKE:
+
+Hey, Cole. We’re just a bunch of farmers. These guys are soldiers. Maybe we should give them the stuff.
+
+ 
+
+COLE:
+
+Geez, Blake. You gotta learn when to shut up.
+
+ 
+
+SHEPARD - dialogues options:
+
+-You should come clean.
+
+-What's going on?
+
+-I don't like being lied to.
+
+SHEPARD:
+
+You have something to tell me, Cole?
+
+ 
+
+COLE:
+
+Some guys at the spaceport were running a small smuggling ring. Nothing major. In exchange for a cut of the profits, we let them store packages in our sheds.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Smuggling's a crime.
+
+-Like what?
+
+-That's why you ran here!
+
+ 
+
+SHEPARD:
+
+You’re breaking the law, Cole.
+
+ 
+
+COLE:
+
+We’re not hurting anybody! Hell, most of the time, I don’t even know what’s in the packages. I just thought there might be something we could use. I found a pistol. Figured it would come in handy if those things came back. But you’ll probably get more use out of it than we will.
+
+ 
+
+PARAGON option: Is that all?
+
+RENEGADE OPTION: You’re holding out on me!
+
+ 
+
+SHEPARD:
+
+We’re risking our lives to save this colony. You sure there’s nothing else in here that could help us out?
+
+ 
+
+COLE:
+
+Yeah, there’s one more thing. I was going to sell it after this was over. But you probably deserve it more than I do.
+
+ 
+
+[Cole hands it over to Shepard.]
+
+ 
+
+ASHLEY:
+
+Who’s your contact at the spaceport, Cole? What’s his name?
+
+ 
+
+COLE:
+
+He’s not a bad guy. I don’t want to get him in trouble. Besides, I’m not a snitch!
+
+ 
+
+SHEPARD - dialogues options:
+
+-He may know something.
+
+-Fine.
+
+-Is he worth dying for?
+
+ 
+
+SHEPARD:
+
+He might have something to do with this whole attack, Cole. We need his name. It’s important.
+
+ 
+
+COLE:
+
+Yeah, okay. You’re right. His name’s Powell. Works at the docks at the spaceport. If he’s still alive.
+
+ 
+
+SHEPARD:
+
+I have to go.
+
+ 
+
+COLE:
+
+Good luck.
+
+ 
+
+[The squad reaches the open space of the spaceport where they find Nihlus’s corpse.]
+
+ 
+
+KAIDAN:
+
+Commander. It’s Nihlus.
+
+ 
+
+ASHLEY:
+
+Something’s moving! Over behind those crates!
+
+ 
+
+[Kaidan and Shepard aim their gun at where Ashley is pointing. A man walks toward them, hands in the air.]
+
+ 
+
+POWELL:
+
+Wait! Don’t — don’t shoot! I’m one of you! I’m human.
+
+ 
+
+SHEPARD - dialogues options:
+
+-You need to be more careful.
+
+-Who are you?
+
+-You’re a coward?
+
+ 
+
+ 
+
+SHEPARD:
+
+Sneaking up on us like that nearly got you killed!
+
+ 
+
+POWELL:
+
+I...I’m sorry. I was hiding. From those creatures. My name’s Powell. I saw what happened to that turian. The other one shot him.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Tell me what happened.
+
+-It wasn’t the geth?
+
+-Other one?
+
+ 
+
+SHEPARD:
+
+I need to know how Nihlus died.
+
+ 
+
+POWELL:
+
+The other one got here first. He was waiting when your friend showed up. He called him Saren. I think they knew each other. Your friend seemed to relax. He let his guard down...and Saren killed him. Shot him right in the back. I’m just lucky he didn’t see me behind the crates.
+
+ 
+
+SHEPARD - dialogues options:
+
+-What about the beacon?
+
+-Then what?
+
+ 
+
+SHEPARD:
+
+We were told a Prothean beacon was brought to the spaceport. What happened to it?
+
+ 
+
+POWELL:
+
+It’s over on the other platform. Probably where that guy Saren was headed. We hopped on the cargo train right after he killed your friend. I knew that beacon was trouble. Everything’s gone to hell since we found it. First that damn mother ship showed up. Then the attack. They killed everyone. Everyone! If I hadn’t been behind the crates I’d be dead, too!
+
+ 
+
+SHEPARD - dialogues options:
+
+-The geth didn’t find you?
+
+-Cole mentioned you.
+
+ 
+
+SHEPARD:
+
+You’re Cole’s contact here on the docks. For the smuggling ring.
+
+ 
+
+POWELL:
+
+What? No! I mean...what does it matter now? So I’m a smuggler? Who cares? My supervisor’s dead. The entire crew’s dead. It doesn’t matter now, does it?
+
+ 
+
+SHEPARD - dialogues options:
+
+-Smuggle any weapons?
+
+-You’re right.
+
+ 
+
+SHEPARD:
+
+Anything hidden nearby that we could use against the geth?
+
+ 
+
+POWELL:
+
+A shipment of grenades came through last week. Nobody notices if a few small pieces go missing from the military orders.
+
+ 
+
+ASHLEY:
+
+You greedy son of a bitch! We’re out here trying to protect your sorry ass and all you can think about is how you can rip us off?!
+
+ 
+
+POWELL:
+
+I never thought you’d actually need those grenades! Who’d want to attack Eden Prime? We’re just a bunch of farmers! How was I supposed to know?
+
+ 
+
+SHEPARD - dialogues options:
+
+-Let it go, Williams.
+
+-Hand them over.
+
+-You’re pathetic!
+
+ 
+
+SHEPARD:
+
+Just give me the grenades.
+
+ 
+
+POWELL:
+
+They’re yours. Take them. My smuggling days are over. I swear.
+
+ 
+
+PARAGON option: You should make amends.
+
+RENEGADE option: Is that all?
+
+ 
+
+SHEPARD:
+
+A lot of marines died here, Powell. Those grenades could have come in handy. If I were you, I’d think of some way to make it up to them.
+
+ 
+
+POWELL:
+
+Yeah. Okay. There is something else I was saving. Could be worth a fortune. Experimental technology. Top of the line. Take it. I don’t need it. I didn’t want anyone to get hurt. Really. I’m sorry.
+
+ 
+
+[Powell gives Shepard the item.]
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Beacon
+
+-Ship
+
+ 
+
+ 
+
+SHEPARD:
+
+Tell me about the geth attack.
+
+ 
+
+POWELL:
+
+It was quick. One minute, that ship was descending. The next, those geth were swarming over the platform, thousands of them. They must have been inside that mother ship. They shot anything that moved. It was a massacre.
+
+ 
+
+SHEPARD:
+
+How come you’re the only one who survived? Why didn’t anyone else try to hide behind the crates?
+
+POWELL:
+
+They never had a chance. I...I was already behind the crates when the attack started.
+
+ 
+
+KAIDAN:
+
+Wait a minute. You were hiding behind the crates before the attack?
+
+POWELL:
+
+I...sometimes I need a nap to get through my shift. I sneak off behind the crates to grab forty winks where the supervisor can’t find me.
+
+ASHLEY:
+
+You survived because you’re lazy?
+
+ 
+
+SHEPARD - dialogues options:
+
+-Lucky break for you.
+
+-You make me sick.
+
+ 
+
+SHEPARD:
+
+If you hadn't snuck off for that nap you'd probably be dead just like all the others.
+
+ 
+
+POWELL:
+
+Yeah. Yeah, I guess. I don't really want to think about it.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Beacon
+
+-Ship
+
+ 
+
+SHEPARD:
+
+Is there anything else you can tell me about the beacon?
+
+ 
+
+POWELL:
+
+They brought it here this morning. We loaded it up onto the train and shipped it to the other platform. Hard to believe that was only a few hours ago. Feels like a whole other life.
+
+ 
+
+SHEPARD - Investigate dialogues options:
+
+-Attack
+
+-Beacon
+
+-Ship
+
+ 
+
+SHEPARD:
+
+Tell me about this ‘mother ship’ you saw.
+
+ 
+
+POWELL:
+
+I’ve never seen anything like it before. It — it was huge. Landed over near that platform. The whole place got dark as it came down. And — and it was making this noise, this — this sound that bored right into your brain. That’s what woke me up. The attack came a few minutes later.
+
+ 
+
+SHEPARD:
+
+We need to find that beacon before it’s too late.
+
+ 
+
+POWELL:
+
+Take the cargo train. That’s where the other turian went. I...I can’t stay here. I need to get away from all this.
+
+ 
+
+SCENE III
+Finding the beacon
+ 
+
+[The squad walks toward the cargo train. They kill geth troopers and destroyers on the way.  The cargo train takes them to the site where the beacon is. Saren is already there.]
+
+ 
+
+SAREN (to geth):
+
+Set the charges. Destroy the entire colony. Leave no evidence that we were here.
+
+ 
+
+[Saren gets close to the beacon, which emits a green light. He receives a vision and is floating in the air. The geth are activating four bombs around the site. Shepard and the squad gets out of the cargo train.]
+
+ 
+
+KAIDAN:
+
+Demolition charges! The geth must have planted them.
+
+ 
+
+ASHLEY:
+
+Hurry! We need to find them all and shut them down.
+
+ 
+
+[They deactivate the bombs while being attacked by geth troopers. On their way to the beacon, the squad destroys husks.]
+
+ 
+
+SHEPARD (on comm):
+
+Normandy, the beacon is secure. Request immediate evac.
+
+ 
+
+KAIDAN:
+
+This is amazing. Actual working Prothean technology. Unbelievable!
+
+ 
+
+ASHLEY:
+
+It wasn’t doing anything like that when they dug it up.
+
+ 
+
+KAIDAN:
+
+Something must have activated it.
+
+ 
+
+SHEPARD (on comm):
+
+Roger, Normandy. Standing by.
+
+ 
+
+[Ashley gets close to the beacon. It starts emitting a vibrant green light. Shepard sees her and rushes to get her out of the way. Kaidan takes Ashley in his arms.]
+
+ 
+
+ASHLEY:
+
+Shepard!
+
+ 
+
+[Kaidan prevents her from moving.]
+
+ 
+
+KAIDAN:
+
+No! Don’t touch him! It’s too dangerous!
+
+ 
+
+[Shepard is now floating in the air. He’s receiving a vision from the beacon, and a series of images appear on the screen. Finally, the vision ends, and he’s back on the ground. Ashley and Kaidan rush toward him.]
+
+ 
+
+SCENE IV
+Saren and Benezia
+[The ship on Eden Prime is now travelling in space. Saren is sitting, his back turned. Matriarch Benezia, an asari, walks toward him.]
+
+ 
+
+MATRIARCH BENEZIA:
+
+We identified the ship that touched down on Eden Prime. The Normandy. A human Alliance vessel. It was under the command of Captain Anderson. They managed to save the colony.
+
+ 
+
+SAREN:
+
+And the beacon?
+
+ 
+
+MATRIARCH BENEZIA:
+
+One of the humans may have used it.
+
+ 
+
+SAREN:
+
+Argh! Rarh! Argh!
+
+ 
+
+[Saren throws objects around in a fit of rage. Matriarch Benezia moves her head so as not to get hit by an object thrown at her. He rushes toward her and puts her head in his hands.]
+
+ 
+
+SAREN:
+
+This human must be eliminated.
+
+ 
+
+[He lets go of her and leaves while she stares at him.]
+
+ 
+
+SCENE V
+Post mission debriefing
+ 
+
+[Shepard wakes up in the Normandy’s med bay.]
+
+ 
+
+ASHLEY:
+
+Doctor? Doctor Chakwas? I think he’s waking up.
+
+ 
+
+[Shepard sits on the bed while Chakwas comes to see him. Ashley is behind them.]
+
+ 
+
+CHAKWAS:
+
+You had us worried there, Shepard. How are you feeling?
+
+ 
+
+SHEPARD - dialogues options:
+
+-I’m okay.
+
+-What happened?
+
+-Not great.
+
+ 
+
+SHEPARD:
+
+Minor throbbing. Nothing serious. How long was I out?
+
+ 
+
+CHAKWAS:
+
+About fifteen hours. Something happened down there with the beacon, I think.
+
+ 
+
+ASHLEY:
+
+It’s my fault. I must have triggered some kind of security field when I approached it. You had to push me out of the way.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Don’t blame yourself.
+
+-What about the beacon?
+
+-You were careless.
+
+ 
+
+SHEPARD:
+
+You had no way to know what would happen.
+
+ 
+
+[Ashley appears relieved and pleased.]
+
+ 
+
+CHAKWAS:
+
+Actually, we don’t even know if that’s what set it off. Unfortunately, we’ll never get the chance to find out.
+
+ 
+
+ASHLEY:
+
+The beacon exploded. A system overload, maybe. The blast knocked you cold. The Lieutenant and I carried you back here to the ship.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Thanks.
+
+-Was I hurt?
+
+-Not a local hospital?
+
+ 
+
+SHEPARD:
+
+I appreciate it.
+
+ 
+
+[Ashley appears pleased.]
+
+ 
+
+CHAKWAS:
+
+Physically, you’re fine. But I detected some unusual brain activity, abnormal beta waves. I also noticed an increase in your rapid eye movement, signs typically associated with intense dreaming.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I was dreaming.
+
+-Not a dream. A vision.
+
+-More like a nightmare.
+
+ 
+
+SHEPARD:
+
+I saw — I’m not sure what I saw. Death. Destruction. Nothing’s really clear.
+
+ 
+
+CHAKWAS:
+
+Hmmm. I better add this to my report. It may — Oh, Captain Anderson.
+
+ 
+
+[Anderson joins the group in the med bay.]
+
+ 
+
+ANDERSON:
+
+How’s our XO holding up, Doctor?
+
+ 
+
+CHAKWAS:
+
+All the readings look normal. I’d say the commander’s going to be fine.
+
+ 
+
+ANDERSON:
+
+Glad to hear it. Shepard, I need to speak with you — in private.
+
+ 
+
+[Ashley salutes Anderson.]
+
+ 
+
+ASHLEY:
+
+Aye, aye, Captain. I’ll be in the mess if you need me.
+
+ 
+
+[Ashley and Chakwas leave the med bay.]
+
+ 
+
+ANDERSON:
+
+Sounds like that beacon hit you pretty hard, Commander. You sure you’re okay?
+
+ 
+
+SHEPARD - dialogues options:
+
+-I feel bad about Jenkins.
+
+-Why is Williams here?
+
+-I'm pissed off about the geth.
+
+-I’m fine.
+
+ 
+
+SHEPARD:
+
+I don’t like soldiers dying under my command.
+
+ 
+
+ANDERSON:
+
+Jenkins wasn’t your fault. You did a good job, Shepard.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I feel bad about Jenkins.
+
+-Why is Williams here?
+
+-I'm pissed off about the geth.
+
+-You wanted to talk?
+
+ 
+
+SHEPARD:
+
+Chief Williams isn’t part of the Normandy crew.
+
+ 
+
+ANDERSON:
+
+I figured we could use a soldier like her. She's been reassigned to the Normandy.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Good.
+
+-That's a mistake.
+
+-You wanted to talk?
+
+ 
+
+SHEPARD:
+
+Williams is a good soldier. She deserves it.
+
+ 
+
+ 
+
+ANDERSON:
+
+Lieutenant Alenko agrees with you. That's why I added her to our crew.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I feel bad about Jenkins.
+
+-I'm pissed off about the geth.
+
+-You wanted to talk?
+
+ 
+
+SHEPARD:
+
+Intel dropped the ball, sir. We had no idea what we were walking into down there. That’s why things went to hell.
+
+ 
+
+ANDERSON:
+
+The geth haven’t been outside the Veil in two centuries, Commander. Nobody could have predicted this.
+
+ 
+
+SHEPARD - dialogues options:
+
+-I feel bad about Jenkins.
+
+-I'm pissed off about the geth.
+
+-You wanted to talk?
+
+ 
+
+SHEPARD:
+
+You said you needed to see me in private, Captain?
+
+ 
+
+ANDERSON:
+
+I won’t lie to you, Shepard. Things look bad. Nihlus is dead. The beacon was destroyed and geth are invading. The Council’s going to want answers.
+
+ 
+
+SHEPARD - dialogues options:
+
+-We've got nothing to hide.
+
+-I did my job.
+
+-To hell with them!
+
+ 
+
+SHEPARD:
+
+I didn’t do anything wrong, Captain. Hopefully, the Council can see that.
+
+ 
+
+ANDERSON:
+
+I’ll stand behind you and your report, Shepard. You’re a damned hero in my books. That’s not why I’m here. It’s Saren, that other turian. Saren’s a Spectre, one of the best. A living legend. But if he’s working with the geth, it means he’s gone rogue. A rogue Spectre’s trouble. Saren’s dangerous. And he hates humans.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Hates humans?
+
+-He wanted the beacon.
+
+ 
+
+SHEPARD:
+
+Why?
+
+ 
+
+ANDERSON:
+
+He thinks we’re growing too fast, taking over the galaxy. A lot of aliens think that way. Most of them don’t do anything about it. But Saren has allied himself with the geth. I don’t know how. I don’t know why. I only know it had something to do with that beacon. You were there just before the beacon self-destructed. Did you see anything? Any clue that might tell us what Saren was after?
+
+ 
+
+SHEPARD - dialogues options:
+
+-I’m not sure.
+
+-A vision.
+
+ 
+
+SHEPARD:
+
+Just before I lost consciousness, I had some kind of vision.
+
+ 
+
+ANDERSON:
+
+A vision? A vision of what?
+
+ 
+
+SHEPARD - dialogues options:
+
+-A warning.
+
+-War.
+
+-Our death.
+
+ 
+
+SHEPARD:
+
+I saw synthetics. Geth, maybe. Slaughtering people. Butchering them.
+
+ 
+
+ANDERSON:
+
+We need to report this to the Council, Shepard.
+
+ 
+
+SHEPARD - dialogues options:
+
+-What will we say?
+
+-There’s nothing to report.
+
+-Forget it!
+
+ 
+
+SHEPARD:
+
+What are we going to tell them? I had a bad dream?
+
+ 
+
+ANDERSON:
+
+We don’t know what information was stored in that beacon. Lost Prothean technology? Blueprints for some ancient weapon of mass destruction? Whatever it was, Saren took it. But I know Saren. I know his reputation, his politics. He believes humans are a blight on the galaxy. This attack was an act of war! He has the secrets from the beacon. He has an army of geth at his command. And he won’t stop until he’s wiped humanity from the face of the galaxy!
+
+ 
+
+SHEPARD - dialogues options:
+
+-You’re right.
+
+-I’ll stop him.
+
+-Not if I can help it!
+
+ 
+
+SHEPARD:
+
+I’ll find some way to take him down.
+
+ 
+
+ANDERSON:
+
+It’s not that easy. He’s a Spectre. He can go anywhere, do almost anything. That’s why we need the Council on our side.
+
+ 
+
+SHEPARD - dialogues options:
+
+-Understood, sir!
+
+-We expose him.
+
+-They can’t help us!
+
+ 
+
+SHEPARD:
+
+We prove Saren’s gone rogue and the Council will revoke his Spectre status.
+
+ 
+
+ANDERSON:
+
+I’ll contact the ambassador and see if he can get us an audience with the Council. He’ll want to see us as soon as we reach the Citadel. We should be getting close. Head up to the bridge and tell Joker to bring us into dock.
